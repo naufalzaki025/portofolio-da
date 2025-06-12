@@ -25,7 +25,7 @@ Berikut adalah pertanyaan bisnis yang dijawab menggunakan SQL:
 
 1. **Top 3 Pelanggan berdasarkan Total Nominal Pesanan**  
    Mengidentifikasi pelanggan dengan total pengeluaran tertinggi.
-![Top 3 Customers](https://raw.githubusercontent.com/naufalzaki025/source/main/sql/1.png)
+![Top 3 Customers](https://raw.githubusercontent.com/naufalzaki025/source/refs/heads/main/sql/1.png)
 
 2. **Rata-rata Nominal Pemesanan**  
    Menghitung rata-rata total pembayaran dari semua pesanan.
