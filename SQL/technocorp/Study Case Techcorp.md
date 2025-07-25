@@ -75,9 +75,3 @@ Studi kasus ini dibuat sebagai bagian dari latihan mandiri dan portofolio SQL. D
 
 ---
 
-## ✍️ Dibuat oleh
-
-**[Nama Kamu]**  
-Fresh Graduate Informatika • Data Enthusiast • Visual Thinker  
-📫 [email@example.com] | 🌐 [LinkedIn/GitHub URL]
-
